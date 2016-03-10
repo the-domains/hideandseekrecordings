@@ -1,0 +1,14 @@
+layout_spectrum: 0.6756272
+color:
+  saturation: 0.3100359
+  lightness: 0
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#484745'
+    - '#027EE8'
+    - '#99999A'
+  rhythmicContrast: 0.5860215
+typography_spectrum: 0.188172
+name: Hideandseekrecordings
